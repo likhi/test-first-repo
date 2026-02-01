@@ -1,3 +1,3 @@
 # test-first-repo
 my changes
-this is second changes that I am doing 
+this is the new changes of my second branch
